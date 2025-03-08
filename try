@@ -1,3 +1,4 @@
+// do the thing you do
 OracleJdbcTest test = new OracleJdbcTest();
 OracleJdbcTest test = new OracleJdbcTest();
 Properties props = new Properties();
