@@ -1,3 +1,4 @@
+con=DriverManager.getConnection(url, userName, password);
 Properties props = new Properties();
 if (out != null) {
 rs.close();
